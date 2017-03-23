@@ -1,5 +1,5 @@
 {
-    "name": "zxbodya/yii2-gallery-manager",
+    "name": "MamlukiSn/yii2-gallery-manager",
     "description": "Extension for yii, that allows to manage image galleries",
     "type": "yii2-extension",
     "keywords": [
@@ -11,8 +11,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Bogdan Savluk",
-            "email": "savluk.bogdan@gmail.com"
+            "name": "Kenneth Nderitu",
+            "email": "kenntu160@gmail.com"
         }
     ],
     "require": {
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "zxbodya\\yii2\\galleryManager\\": ""
+            "MamlukiSn\\yii2\\galleryManager\\": ""
         }
     }
 }
